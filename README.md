@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **rafaelpontello/rafaelpontello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Go" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  <img align="center" alt="Java" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Kotlin height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Go" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Python" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Javascript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
 </div>
