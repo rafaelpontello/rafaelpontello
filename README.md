@@ -1,5 +1,5 @@
-### Hello, this is Rafael Pontello Github profile. Brazilian, programmer and video games enthusiastic
-
+<h2>Hello, this is Rafael Pontello Github profile.</h2>
+Brazilian, programmer and video games enthusiastic 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
