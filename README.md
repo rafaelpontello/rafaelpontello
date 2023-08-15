@@ -1,4 +1,4 @@
-<h2>Hello, this is Rafael Pontello Github profile.</h2>
+<h2>Hello World, I'm Rafael Pontello </h2>
 Brazilian, programmer and video games enthusiastic 
 
 <div style="display: inline_block"><br>
